@@ -26,7 +26,7 @@ Name-Surname: **Emirhan BULUT**
 
 Contact (Email) : **emirhan.bulut@turkiyeyapayzeka.com**
 
-LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
+Twitter : **[[https://www.linkedin.com/in/artificialintelligencebulut/](https://twitter.com/SoumyaM05506917)][TwitterAccount]**
 
 [LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
 
