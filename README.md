@@ -32,7 +32,7 @@ Twitter : **[[https://www.linkedin.com/in/artificialintelligencebulut/](https://
 
 Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 
-[OfficialWebSite]: https://www.emirhanbulut.com.tr
+[OfficialWebSite]: [https://www.emirhanbulut.com.tr](https://soumyamohanty96.github.io/soumya/#)
 
 [DataSource]: https://www.solarreviews.com/blog/how-much-do-teslas-electric-vehicles-cost
 
