@@ -22,7 +22,7 @@ As you can see in the image, the base price of our Model-3 Standard Range Plus v
 `Pandas`
 ### **Developer Information:**
 
-Name-Surname: **Emirhan BULUT**
+Name-Surname: **Soumya Mohanty**
 
 Contact (Email) : **soumyamohanty797@gmail.com**
 
