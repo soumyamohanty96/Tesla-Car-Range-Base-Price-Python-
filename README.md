@@ -24,15 +24,15 @@ As you can see in the image, the base price of our Model-3 Standard Range Plus v
 
 Name-Surname: **Emirhan BULUT**
 
-Contact (Email) : **emirhan.bulut@turkiyeyapayzeka.com**
+Contact (Email) : **soumyamohanty797@gmail.com**
 
 Twitter : **[[https://www.linkedin.com/in/artificialintelligencebulut/](https://twitter.com/SoumyaM05506917)][TwitterAccount]**
 
 [LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
 
-Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
-
+Official Website: **[(https://soumyamohanty96.github.io/soumya/#)][OfficialWebSite]**
+<!-- 
 [OfficialWebSite]: [https://www.emirhanbulut.com.tr](https://soumyamohanty96.github.io/soumya/#)
 
-[DataSource]: https://www.solarreviews.com/blog/how-much-do-teslas-electric-vehicles-cost
+[DataSource]: https://www.solarreviews.com/blog/how-much-do-teslas-electric-vehicles-cost -->
 
